@@ -8,7 +8,7 @@ Please feel free to check them out.
 
 🔬 **Current research**: (i) Bias in face verification systems at MIT Lincoln Laboratory, (ii) Predicting gene expression in glioblastoma patients at Brown's Singh Lab.
 
-📚 **My favorite courses thus far**: Introduction to systems, Logic for systems, Real analysis, and a philosophy class on ethics in big tech.
+📚 **Favorite courses thus far**: Introduction to systems, Logic for systems, Real analysis, and a philosophy class on ethics in big tech.
 
 🧭 **Near future aspirations**: (i) Continue my current research projects to end up with some cool results, (ii) Explore software engineering at an innovative company this Winter and/or next Summer.
 
@@ -16,4 +16,4 @@ Please feel free to check them out.
 
 [Email me!](mailto:megan_frisella@brown.edu)
 
-<sub>Note: Sadly, I had issues with my Git email configuration so my contributions earlier than mid August, 2021 don't show up accurately 😔</sub>
+<sub>Note: Sadly, I had issues with my Git email configuration, so my contributions earlier than mid-August, 2021 don't show up accurately 😔</sub>

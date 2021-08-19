@@ -6,32 +6,12 @@ I'm a rising sophomore at Brown pursuing a degree in Computer Science and Mathem
 This GitHub account contains some of the projects I've worked on over the past few years. 
 Please feel free to check them out.
 
-<br/>
+🔬 **Current research**: (i) Bias in face verification systems at MIT Lincoln Laboratory, (ii) Predicting gene expression in glioblastoma patients at Brown's Singh Lab.
 
-Current research 🔬 
-* Bias in face verification systems; MIT Lincoln Laboratory
-* Predicting gene expression in glioblastoma patients; Singh Lab @ Brown
+📚 **My favorite courses thus far**: Introduction to systems, Logic for systems, Real analysis, and a philosophy class on ethics in big tech.
 
-<br/>
+🧭 **Near future aspirations**: (i) Continue my current research projects to end up with some cool results, (ii) Explore software engineering at an innovative company this Winter and/or next Summer.
 
-My favorite courses thus far 📚 
-* Introduction to systems
-* Logic for systems
-* Real analysis
-* A philosophy class on ethics in big tech
-
-<br/>
-
-Near future aspirations 🧭
-* Continue my current research projects to end up with some cool results
-* Explore software engineering at an innovative company this Winter and/or next Summer
-
-<br/>
-
-Future aspirations 🚀 
-* Pursue a graduate degree in some area of computer science (TBD, but I'm interested in algorithms/efficiency and machine learning)
-* End up doing research in industry or academia!
-
-<br/>
+🚀 **Future aspirations**: (i) Pursue a graduate degree in some area of computer science (TBD, but I'm interested in algorithms/efficiency and machine learning), (ii) End up doing research in industry or academia!
 
 [Email me!](mailto:megan_frisella@brown.edu)

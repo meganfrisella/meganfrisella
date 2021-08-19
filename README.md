@@ -15,3 +15,5 @@ Please feel free to check them out.
 🚀 **Future aspirations**: (i) Pursue a graduate degree in some area of computer science (TBD, but I'm interested in algorithms/efficiency and machine learning), (ii) End up doing research in industry or academia!
 
 [Email me!](mailto:megan_frisella@brown.edu)
+
+<sub>Note: Sadly, I had issues with my Git email configuration so my contributions earlier than mid August, 2021 don't show up accurately 😔</sub>

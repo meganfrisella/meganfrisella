@@ -18,4 +18,4 @@ Please feel free to check them out.
 
 [LinkedIn](https://www.linkedin.com/in/megan-frisella/)
 
-<sub>Note: Sadly, I had issues with my Git email configuration, so my contributions earlier than mid-August, 2021 don't show up accurately 😔</sub>
+Note: Sadly, I had issues with my Git email configuration, so my contributions earlier than mid-August, 2021 don't show up accurately 😔

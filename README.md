@@ -6,9 +6,9 @@ I'm a sophomore at Brown pursuing a degree in Computer Science and Mathematics.
 This GitHub account contains some of the projects I've worked on over the past few years. 
 Please feel free to check them out.
 
-🔬 **Current research**:  Increasing compute cluster productivity with revocable "soft" memory [Systems@Brown](https://systems.cs.brown.edu/).
+🔬 **Current research**:  Increasing compute cluster productivity with revocable "soft" memory; [Systems@Brown](https://systems.cs.brown.edu/).
 
-🖥 **Teaching**: Head TA for Brown's CS1710, [Logic for Systems](https://csci1710.github.io/2022/).
+🖥 **Teaching**: Head TA for CS1710 at Brown; [Logic for Systems](https://csci1710.github.io/2022/).
 
 📚 **Selected coursework**: Cryptography, Software Security, Systems, (Formal) Logic for Systems, Abstract Algebra.
 

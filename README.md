@@ -6,9 +6,11 @@ I'm a sophomore at Brown pursuing a degree in Computer Science and Mathematics.
 This GitHub account contains some of the projects I've worked on over the past few years. 
 Please feel free to check them out.
 
-🔬 **Current research**: (i) Improving OS memory management [Systems@Brown](https://systems.cs.brown.edu/).
+🔬 **Current research**:  Increasing compute cluster productivity with revocable "soft" memory [Systems@Brown](https://systems.cs.brown.edu/).
 
-📚 **Favorite courses thus far**: Software Security and Exploitation, Logic for systems, Topology, and a philosophy class on ethics in big tech.
+🖥 **Teaching**: Head TA for Brown's CS1710, [Logic for Systems](https://csci1710.github.io/2022/).
+
+📚 **Selected coursework**: Cryptography, Software Security, Systems, (Formal) Logic for Systems, Abstract Algebra.
 
 [Email me!](mailto:megan_frisella@brown.edu)
 

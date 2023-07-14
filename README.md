@@ -2,21 +2,19 @@
 
 Pronouns: she/her
 
-I'm a junior at Brown pursuing a degree in Mathematics and Computer Science. 
+I'm a Senior at Brown University studying Math and CS. 
 This GitHub account contains some of the projects I've worked on over the past few years. 
 Please feel free to check them out.
 
-🔬 **Current research**: 
-* As a cyber security intern under Dr. Joshua Guttman at MITRE, I am working on producing a secure implementation of cryptographic key distribution
-protocol that is specified in [CPSA](https://github.com/mitre/cpsa). A security-by-composition approach is taken, which combines formal
-reasoning from separation logic, permission theory, mathematical proofs. 
-* As an undergraduate researcher under Professor Malte Schwarzkopf at Brown, I am working to reduce OOM kills on compute clusters via revokable ("soft") memory. A custom memory allocator differentiates revokable from canonical memory, and a memory daemon commands processes to give up revokable memory for needier processes in times of memory pressure. Current work is to integrate the system with the [Redis](https://aws.amazon.com/redis/) in-memory cache as an example for end-to-end testing. 
+**Resarch Interests**: Programming languages, software verification, systems
+
+🔬 **Research**: 
+* Improving datacenter efficiency via "soft memory": Defines a new type of flexible memory designed to be revocable in order to avoid OOM terminations and boost overall memory utilization on a machine by redistributing memory when the machine is under memory pressure. [[publication]](https://dl.acm.org/doi/10.1145/3593856.3595902)
+* Proof-oriented imperative programming: Helping inform the development of Pulse, a proof-oriented imperative programming language built on top of Steel (a concurrent separation logic written in F*) by identifying language limitations, bugs, and candidate patterns for proof automation. Producing a verified implementation of [DICE](https://www.microsoft.com/en-us/research/project/dice-device-identifier-composition-engine/) -- a protocol for firmware identification and attestation -- in Pulse.  
+* Verified cryptographic protocols: Produced a verified implementation of a cryptographic key distribution protocol specified in [CPSA](https://github.com/mitre/cpsa) and written in Rust. Used a security-by-composition technique, combining reasoning about separation logic, Rust permission theory, and mathematical proofs. Work done May-August 2022 at MITRE under the advising of Dr. Joshua Guttman. 
 
 🖥 **Teaching**: 
-* During Fall 2022, I'm an Undergraduate TA for [CS1650](https://cs.brown.edu/courses/csci1650/); Software Security and Exploitation. 
-* During Spring 2022, I was a Head TA for [CS1710](https://csci1710.github.io/2022/); Logic for Systems.
-
-📚 **Selected coursework**: Cryptography, Formal Logic, Software Security, Abstract Algebra.
+* 2-time Head Teaching Assistant for an introductory formal methods course at Brown: [CS1710](https://csci1710.github.io/2022/), Logic for Systems.
 
 [Email me!](mailto:megan_frisella@brown.edu)
 

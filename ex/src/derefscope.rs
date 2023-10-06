@@ -213,6 +213,28 @@ fn _vec_sum(in_vec: &SoftVec<i32>, out: &mut SoftPtr<i32>) -> Result<(), Error> 
   };
 
   */
+
+  /* IDEAL CODE -- as long as a dereference of a SoftPtr/SoftDS occurs
+     within a dereference scope, desugar the dereference to the above code
+
+  let _ = DerefScope::new();
+  **out = sum;
+
+  */
+
+  /* E.G. ergonomic SoftDS dereference 
+
+  let _ = DerefScope::new();
+  let len = in_vec.len()
+
+  DESUGARS TO
+
+  let len = {
+    let s1 = DerefScope::new();
+    in_vec.soft_len(&s1)
+  };
+
+  */
   
   Ok(())
 }

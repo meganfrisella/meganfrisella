@@ -1,0 +1,10 @@
+[package]
+name = "ex"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "derefscope"
+path = "src/derefscope.rs"
+
+[dependencies]

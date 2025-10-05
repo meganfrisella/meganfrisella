@@ -1,1 +1,1 @@
-### Hi there, I'm Megan. Check out my [webiste](https://homes.cs.washington.edu/~mfris/)! 
+### Hi there, I'm Megan. Check out my [website](https://homes.cs.washington.edu/~mfris/)! 
